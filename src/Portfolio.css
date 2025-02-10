@@ -1,0 +1,116 @@
+/* Light/Dark Mode */
+.light-mode {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  /* Ensure all text is visible in dark mode */
+  .dark-mode h1,
+  .dark-mode h2,
+  .dark-mode h3,
+  .dark-mode h4,
+  .dark-mode h5,
+  .dark-mode h6,
+  .dark-mode p,
+  .dark-mode .lead,
+  .dark-mode .navbar-brand,
+  .dark-mode .nav-link,
+  .dark-mode .card,
+  .dark-mode .glass-card,
+  .dark-mode .project-card,
+  .dark-mode .project-card.description,
+  .dark-mode .contact-card {
+    color: #ffffff; /* Force white text in dark mode */
+  }
+  
+  /* Navbar */
+  .navbar {
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Hero Section */
+  .profile-img {
+    max-width: 300px;
+    border-radius: 50%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* About Section */
+  .glass-card {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  /* Skills Section */
+  .progress {
+    height: 25px;
+    border-radius: 12px;
+  }
+  
+  .progress-bar {
+    border-radius: 12px;
+  }
+  
+  /* Projects Section */
+  .project-card {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    transition: transform 0.3s ease;
+  }
+  
+  /* Contact Section */
+  .contact-card {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  /* Light/Dark Mode Toggle Button */
+  .theme-toggle-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+  }
+  
+  .theme-toggle-btn:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+
+
+  .project-card {
+    border-radius: 10px;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .project-image {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
