@@ -33,7 +33,7 @@ import Contact from "./Contact";
 const Portfolio = () => {
   // Load theme from localStorage
   const [darkMode, setDarkMode] = useState(() => {
-    return localStorage.getItem("theme") === "dark";
+    return localStorage.getItem("theme") !== "light";
   });
 
   // Apply theme to the body
