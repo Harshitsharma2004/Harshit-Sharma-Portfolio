@@ -1,4 +1,4 @@
-import React, { useState, useEffect ,useRef} from "react";
+import React, { useState, useEffect, useRef } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import { Send } from "lucide-react";
@@ -236,7 +236,7 @@ const Portfolio = () => {
           backdropFilter: "blur(15px)",
           padding: "4rem",
           boxShadow: "0px 10px 30px rgba(0, 0, 0, 0.3)",
-          color: "#fff",
+          color: "#fff", // Ensures text stays white
           position: "relative",
           overflow: "hidden",
         }}
@@ -265,6 +265,7 @@ const Portfolio = () => {
             color: "transparent",
             display: "inline-block",
             zIndex: 1,
+            textShadow: "0px 0px 5px rgba(255, 255, 255, 0.5)", // Enhances readability
           }}
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -285,9 +286,16 @@ const Portfolio = () => {
             padding: "2rem",
             boxShadow: "0px 10px 20px rgba(255, 255, 255, 0.1)",
             zIndex: 1,
+            color: "#fff", // Ensures text remains white inside the card
           }}
         >
-          <p className="lead">
+          <p
+            className="lead"
+            style={{
+              color: "#fff", // Ensures text remains white
+              textShadow: "0px 0px 5px rgba(255, 255, 255, 0.5)",
+            }}
+          >
             I am a <strong>Full Stack Python Developer</strong> with a passion
             for building scalable, secure, and high-performance web
             applications. Specializing in both <strong>frontend</strong> and{" "}
