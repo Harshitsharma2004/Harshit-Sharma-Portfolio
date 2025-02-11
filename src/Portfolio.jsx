@@ -354,6 +354,7 @@ const Portfolio = () => {
             { name: "JavaScript", icon: <FaCode />, percentage: "80%" },
             { name: "CSS", icon: <FaCode />, percentage: "95%" },
             { name: "GitHub", icon: <FaCode />, percentage: "60%" },
+            { name: "Web Scraping", icon: <FaCode />, percentage: "60%" },
           ].map((skill, index) => (
             <motion.div
               key={index}
