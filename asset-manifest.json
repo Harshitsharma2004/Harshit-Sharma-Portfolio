@@ -1,26 +1,31 @@
 {
   "files": {
     "main.css": "/Harshit-Sharma-Portfolio/static/css/main.e4c39beb.css",
-    "main.js": "/Harshit-Sharma-Portfolio/static/js/main.c55e20cd.js",
+    "main.js": "/Harshit-Sharma-Portfolio/static/js/main.1978b394.js",
     "static/js/488.21a3b654.chunk.js": "/Harshit-Sharma-Portfolio/static/js/488.21a3b654.chunk.js",
+    "static/media/resume.pdf": "/Harshit-Sharma-Portfolio/static/media/resume.13253bde44e13a6129e5.pdf",
     "static/media/profile.png": "/Harshit-Sharma-Portfolio/static/media/profile.9a5c993528cd0204c470.png",
     "static/media/Project8.png": "/Harshit-Sharma-Portfolio/static/media/Project8.3e936787cf4fee0cda54.png",
+    "static/media/Project10.png": "/Harshit-Sharma-Portfolio/static/media/Project10.26187ebc4856da132374.png",
     "static/media/Project7.png": "/Harshit-Sharma-Portfolio/static/media/Project7.d4cc2caca9ecf0ff5c36.png",
     "static/media/Project2.png": "/Harshit-Sharma-Portfolio/static/media/Project2.72f15c160e2b255f0261.png",
     "static/media/Project3.png": "/Harshit-Sharma-Portfolio/static/media/Project3.0888bbb499c5badf3d3c.png",
     "static/media/Project9.png": "/Harshit-Sharma-Portfolio/static/media/Project9.6e866903142241d8febd.png",
+    "static/media/Project14.png": "/Harshit-Sharma-Portfolio/static/media/Project14.fa823f7970f17c7f9620.png",
+    "static/media/Project13.png": "/Harshit-Sharma-Portfolio/static/media/Project13.112a631aca8b3d3d0572.png",
     "static/media/Project4.png": "/Harshit-Sharma-Portfolio/static/media/Project4.1d01f651f25ad08203f9.png",
     "static/media/Project1.png": "/Harshit-Sharma-Portfolio/static/media/Project1.7eb9e6edd42bc36ce37f.png",
     "static/media/Project5.png": "/Harshit-Sharma-Portfolio/static/media/Project5.2918062886e2b578e814.png",
+    "static/media/Project11.png": "/Harshit-Sharma-Portfolio/static/media/Project11.98f0669cef834d5a271f.png",
+    "static/media/Project12.png": "/Harshit-Sharma-Portfolio/static/media/Project12.fa42b214c45fe05b6d84.png",
     "static/media/Project6.png": "/Harshit-Sharma-Portfolio/static/media/Project6.76192ca0a4113a4ca7c2.png",
-    "static/media/resume.pdf": "/Harshit-Sharma-Portfolio/static/media/resume.1418eb1592367d676c32.pdf",
     "index.html": "/Harshit-Sharma-Portfolio/index.html",
     "main.e4c39beb.css.map": "/Harshit-Sharma-Portfolio/static/css/main.e4c39beb.css.map",
-    "main.c55e20cd.js.map": "/Harshit-Sharma-Portfolio/static/js/main.c55e20cd.js.map",
+    "main.1978b394.js.map": "/Harshit-Sharma-Portfolio/static/js/main.1978b394.js.map",
     "488.21a3b654.chunk.js.map": "/Harshit-Sharma-Portfolio/static/js/488.21a3b654.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4c39beb.css",
-    "static/js/main.c55e20cd.js"
+    "static/js/main.1978b394.js"
   ]
 }
