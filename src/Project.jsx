@@ -76,6 +76,41 @@ const projectsData = [
     link: "#",
     technologies: ["React", "CSS","HTML","Bootstrap"],
   },
+  {
+    name: "Food Recipe Website",
+    description: "Built using React, CSS and Bootstrap.",
+    image: Project10,
+    link: "#",
+    technologies: ["React", "CSS","HTML","Bootstrap"],
+  },
+  {
+    name: "Blog Website",
+    description: "Built using Django, CSS and Bootstrap.",
+    image: Project11,
+    link: "#",
+    technologies: ["Django", "CSS","HTML","Bootstrap"],
+  },
+  {
+    name: "E-commerce Website",
+    description: "Built using Django, CSS and Bootstrap.",
+    image: Project12,
+    link: "#",
+    technologies: ["Django", "CSS","HTML","Bootstrap"],
+  },
+  {
+    name: "SwiftSparrow- Twitter Website",
+    description: "Built using Django, CSS and Bootstrap.",
+    image: Project13,
+    link: "#",
+    technologies: ["Django", "CSS","HTML","Bootstrap"],
+  },
+  {
+    name: "QuizChamp- Quiz Website",
+    description: "Built using Django, CSS and Bootstrap.",
+    image: Project14,
+    link: "#",
+    technologies: ["Django", "CSS","HTML","Bootstrap"],
+  },
 ];
 
 const Projects = () => {

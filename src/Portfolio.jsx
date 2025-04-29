@@ -347,6 +347,7 @@ const Portfolio = () => {
           {[
             { name: "ReactJS", icon: <FaReact />, percentage: "85%" },
             { name: "Django", icon: <FaPython />, percentage: "80%" },
+            { name: "Python", icon: <FaPython />, percentage: "80%" },
             { name: "MySQL", icon: <FaDatabase />, percentage: "80%" },
             { name: "Bootstrap", icon: <FaCode />, percentage: "90%" },
             { name: "TailwindCSS", icon: <FaCode />, percentage: "90%" },
