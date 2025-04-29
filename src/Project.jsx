@@ -15,7 +15,7 @@ import Project10 from './Project10.png';
 import Project11 from './Project11.png';
 import Project12 from './Project12.png';
 import Project13 from './Project13.png';
-
+import Project14 from './Project14.png';
 const projectsData = [
   {
     name: "Car Rental Website",
