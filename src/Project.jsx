@@ -11,6 +11,10 @@ import Project6 from './Project6.png';
 import Project7 from './Project7.png';
 import Project8 from './Project8.png';
 import Project9 from './Project9.png';
+import Project10 from './Project10.png';
+import Project11 from './Project11.png';
+import Project12 from './Project12.png';
+import Project13 from './Project13.png';
 
 const projectsData = [
   {
